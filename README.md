@@ -1,0 +1,4 @@
+GreedTemplate
+=============
+
+topcoder greed
